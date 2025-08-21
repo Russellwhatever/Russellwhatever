@@ -2,5 +2,5 @@
 
 
 
-- 🔭 I’m currently a phd candidate in cheminformatics/ai for chemistry
-- 🌱 I'm also interested at: [obsidian](obsidian.md) utilized in daily working flow, Game design theory in MetroidVania and puzzle games, cycling, etc. 
+- 🔭 I’m currently a PhD candidate in cheminformatics and AI for chemistry.
+- 🌱 I’m also interested in integrating Obsidian into my daily workflow, game design theory (especially in Metroidvania and puzzle games), cycling, and more.
