@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Russellwhatever/Russellwhatever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently a phd candidate in cheminformatics/ai for chemistry
