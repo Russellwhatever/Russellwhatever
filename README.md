@@ -2,7 +2,7 @@
 
 - 🎓 PhD candidate in Physical Chemistry.
 
-- 🗒️ [obsidian](obsidian.md) workflow and Personal Knowledge Management.
+- 🗒️ [obsidian](obsidian.md) workflow and Personal Knowledge Management. A non-hierachy-structured workflow sample repo [here](https://github.com/Russellwhatever/obsidian-flat-notes)
 
 - 🎮 Interested in game design theory, especially Metroidvania and puzzle games. 
 
