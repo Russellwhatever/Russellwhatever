@@ -7,10 +7,10 @@
 - 🎮 Interested in game design theory, especially Metroidvania and puzzle games. 
 
 - 🚴‍♂️ Sports:
- - road cycling. Cycling Routes by Fudan Cycling Association [Here](https://github.com/ArcPen/FudanCYCRoutes)
- - camping.
- - open-water swimming.
- - hoping to take on a triathlon someday.
+  - road cycling. Cycling Routes by Fudan Cycling Association [Here](https://github.com/ArcPen/FudanCYCRoutes)
+  - camping.
+  - open-water swimming.
+  - hoping to take on a triathlon someday.
 
 - 📚 I also maintain a [Bookmarks Library](https://github.com/Russellwhatever/Bookmarks)
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
