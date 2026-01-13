@@ -2,11 +2,15 @@
 
 - 🎓 PhD candidate in Physical Chemistry.
 
-- 🗒️ [obsidian](obsidian.md) workflow and Personal Knowledge Management. A non-hierachy-structured workflow sample repo [here](https://github.com/Russellwhatever/obsidian-flat-notes)
+- 🗒️ [obsidian](obsidian.md) user. A non-hierachy-structured workflow sample repo [here](https://github.com/Russellwhatever/obsidian-flat-notes)
 
 - 🎮 Interested in game design theory, especially Metroidvania and puzzle games. 
 
-- 🚴‍♂️ Enjoy long-distance road cycling, camping, and open-water swimming; hoping to take on a triathlon someday. You can check Cycling Routes by Fudan Cycling Association [Here](https://github.com/ArcPen/FudanCYCRoutes)
+- 🚴‍♂️ Sports:
+ - road cycling. Cycling Routes by Fudan Cycling Association [Here](https://github.com/ArcPen/FudanCYCRoutes)
+ - camping.
+ - open-water swimming.
+ - hoping to take on a triathlon someday.
 
 - 📚 I also maintain a [Bookmarks Library](https://github.com/Russellwhatever/Bookmarks)
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
