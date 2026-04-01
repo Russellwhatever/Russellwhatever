@@ -12,5 +12,5 @@
   - open-water swimming.
   - hoping to take on a triathlon someday.
 
-- 📚 I also maintain a [Bookmarks Library](https://github.com/Russellwhatever/Bookmarks)
+- 📚 I also maintain a **Bookmarks Library**(available [Here](https://russellwhatever.github.io/categories/periodic/))
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
