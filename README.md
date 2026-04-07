@@ -14,4 +14,5 @@
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
 
 ![Stats](./profile/stats.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russellwhatever&layout=compact&theme=radial)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
