@@ -13,5 +13,4 @@
 - 📚 I also maintain a **Bookmarks Library**(available [Here](https://russellwhatever.github.io/categories/periodic/))
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+
