@@ -10,7 +10,7 @@
   - open-water swimming.
   - hoping to take on a triathlon someday.
 
-- 📚 I also maintain a **Bookmarks Library**(available [Here](https://russellwhatever.github.io/categories/periodic/))
+- 📚 I also maintain a **Bookmarks Library**(available [Here](https://russellwhatever.github.io/bookmark/))
  —a curated collection of monthly readings across literature, science & technology, history, and beyond
 
 
